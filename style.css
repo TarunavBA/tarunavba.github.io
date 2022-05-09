@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
 *
 {
 	margin: 0;
-	font-family: Fira Code;
+	font-family: 'Rubik', sans-serif;
 	padding: 0;
 	box-sizing: border-box;
 }
